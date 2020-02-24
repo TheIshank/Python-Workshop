@@ -134,3 +134,6 @@ dmypy.json
 .pytype/
 
 *.dat
+
+#Visual Studio Settings
+.vscode
